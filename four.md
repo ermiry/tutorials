@@ -1,6 +1,7 @@
-View linux disk partitions table 
-===================================
- * Se ingresa el comando 
+# View linux disk partitions table 
+
+1. Se ingresa el comando 
+
 ```
 sudo fdisk -l
 ```
