@@ -5,4 +5,4 @@ View linux disk partitions table
 sudo fdisk -l
 ```
 
-![imagen](4.jpeg)
+![imagen](images/4.jpeg)
